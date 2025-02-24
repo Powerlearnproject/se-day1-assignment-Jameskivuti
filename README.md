@@ -43,36 +43,28 @@ Project Manager: Plans timelines, allocates resources, and coordinates teams.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-Integrated Development Environments (IDEs):
-Provide a one-stop environment for writing, debugging, and testing code. They often include code auto-completion, syntax highlighting, and integrated build tools. Examples include Visual Studio Code, IntelliJ IDEA, and Eclipse.
-Version Control Systems (VCS):
-Track changes to code, facilitate collaboration among multiple developers, and maintain historical versions. Examples include Git (with platforms like GitHub or GitLab) and Subversion (SVN). These tools are crucial for preventing conflicts and enabling rollbacks when needed
+Integrated Development Environments (IDEs):Provide a one-stop environment for writing, debugging, and testing code. They often include code auto-completion, syntax highlighting, and integrated build tools. Examples include Visual Studio Code, IntelliJ IDEA, and Eclipse.
+Version Control Systems (VCS):Track changes to code, facilitate collaboration among multiple developers, and maintain historical versions. Examples include Git (with platforms like GitHub or GitLab) and Subversion (SVN). These tools are crucial for preventing conflicts and enabling rollbacks when needed
 
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
-Common Challenges:
-Evolving Requirements: Projects often face changes in scope and user needs.
+Common Challenges:Evolving Requirements: Projects often face changes in scope and user needs.
 Technical Debt: Maintaining and improving legacy code can slow progress.
 Communication Barriers: Coordinating effectively among team members and stakeholders.
 
-Strategies to Overcome Them:
-Adopt Agile Practices: Embrace iterative development to manage changing requirements.
+Strategies to Overcome Them:Adopt Agile Practices: Embrace iterative development to manage changing requirements.
 Regular Code Reviews and Refactoring: Address technical debt and improve code quality.
 Enhanced Communication: Use collaboration tools and hold regular meetings to ensure everyone is aligned.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
-Unit Testing:
-Tests individual components in isolation, ensuring each part functions correctly.
-Integration Testing:
-Verifies that different modules work together as intended.
-System Testing:
-Evaluates the complete integrated system to ensure it meets the specified requirements.
-Acceptance Testing:
-Involves validating the software against user requirements and business needs, often by the end users themselves.
+Unit Testing:Tests individual components in isolation, ensuring each part functions correctly.
+Integration Testing:Verifies that different modules work together as intended.
+System Testing:Evaluates the complete integrated system to ensure it meets the specified requirements.
+Acceptance Testing:Involves validating the software against user requirements and business needs, often by the end users themselves.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
